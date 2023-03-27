@@ -1,11 +1,10 @@
-Behavioral-based XP awards
-
+# Behavioral-based XP awards
 
 In a behavioral-based XP system, a player is rewarded for taking action that makes the game more enjoyable for everyone. Generally, a DM should award players 1 to 3 XP per session based on a handful of options. 
 
-Recommended Awards:
+## Recommended Awards:
 
-Participation 1 XP
+### Participation 1 XP
 
 This includes; showing up on time, being prepared, keeping OOC chatters to a minimum, and not distracting the party for the goal of playing the game. 
 
@@ -18,7 +17,7 @@ This award can include but is not limited to staying in character, purposefully 
 This award should be very common. If a DM enjoyed their time with this player, they probably deserve this point. 
 
 
-Optional Awards:
+## Optional Awards:
 
 Outstanding moment 1 XP
 
